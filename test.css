@@ -13,6 +13,13 @@ p {
 .left {
     display: inline-block;
     width: 20vmin;
+    transition: all 100ms 0s ease;
+}
+
+.left:hover {
+    display: inline-block;
+    width: 20vmin;
+    font-weight: 700;
 }
 
 .right {
