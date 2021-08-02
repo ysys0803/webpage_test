@@ -1,0 +1,49 @@
+body {
+    font-family: "Arial", "メイリオ";
+    margin : 0vmin 10vmin 0vmin 10vmin;
+    color: black;
+    background: #e0ffff;
+    font-size: 4vmin;
+}
+
+p {
+    padding: 0vmin 5vmin 0vmin 5vmin;
+}
+
+.left {
+    display: inline-block;
+    width: 20vmin;
+}
+
+.right {
+    display: inline-block;
+    width: 80vmin;
+}
+
+.main {
+    background:#fd0077;
+    color: #ffffff;
+    font-size: 6vmin;
+    border-radius: 3vmin;/*角の丸み*/
+}
+
+.rin {
+    font-size: 6vmin;
+    padding: 3vmin;
+    background: #FFFDB1;
+    border-left: solid 4vmin #DBD41E;
+}
+
+.hanamaru {
+    font-size: 6vmin;
+    padding: 3vmin;
+    background: #F5EB9C;
+    border-left: solid 4vmin #FFD00F;
+}
+
+.emma {
+    font-size: 6vmin;
+    padding: 3vmin;
+    background: #D3FAD3;
+    border-left: solid 4vmin #8FDA79;
+}
